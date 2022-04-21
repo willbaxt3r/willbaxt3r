@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @willbaxt3r
-- 👀 I’m interested in ... React
+- 👀 I’m interested in ... touching grass
 - 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... Outfit Gen
 - 📫 How to reach me ... willbax05@gmail.com
